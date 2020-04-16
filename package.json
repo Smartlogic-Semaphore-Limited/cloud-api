@@ -1,0 +1,19 @@
+{
+  "name": "@semaphore/cloud-api",
+  "version": "0.9.0-SNAPSHOT",
+  "description": "",
+  "main": "public",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartlogic-Semaphore-Limited/cloud-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smartlogic-Semaphore-Limited/cloud-api/issues"
+  },
+  "homepage": "https://github.com/Smartlogic-Semaphore-Limited/cloud-api#readme"
+}
