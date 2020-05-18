@@ -1,0 +1,41 @@
+[
+  {
+    "group": "User",
+    "sections": [
+      {
+        "header": "Account",
+        "items": [
+          {
+            "title": "Account Settings",
+            "tooltipText": "Account Settings (optional)",
+            "url": "/spa/account"
+          }
+        ]
+      },
+      {
+        "header": "Help",
+        "items": [
+          {
+            "title": "Customer Portal",
+            "url": "https://portal.smartlogic.com/",
+            "urlTarget": "_blank"
+          }
+        ]
+      },
+      {
+        "header": "",
+        "items": [
+          {
+            "iconComponent": "logout",
+            "title": "Logout",
+            "url": "/spa/logout"
+          }
+        ]
+      }
+    ],
+    "activator": {
+      "iconComponent": "account-circle-outline",
+      "title": "User Name"
+    }
+  }
+]
