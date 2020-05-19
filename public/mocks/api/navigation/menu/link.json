@@ -1,0 +1,173 @@
+[
+  {
+    "group": "Menu",
+    "sections":[
+      {
+        "items": [],
+        "header": "empty"
+      },
+      {
+        "items": [
+          {
+            "url": "urlTest1",
+            "title": "textTest1"
+          }
+        ],
+        "header": "one"
+      },
+      {
+        "items": [
+          {
+            "url": "urlTest2",
+            "title": "textTest2"
+          },
+          {
+            "url": "urlTest3",
+            "title": "textTest3"
+          }
+        ],
+        "header": "two"
+      }
+    ],
+    "activator": {
+      "iconComponent": "menu"
+    }
+  },
+  {
+    "group": "Dashboard",
+    "sections": [
+      {
+        "header": "",
+        "items": [
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "archive",
+            "backgroundClass": "primary",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip",
+            "urlTarget": "_blank"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "account-circle-outline",
+            "backgroundClass": "primary",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "comment-eye-outline",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "secondary"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "exclamation-thick",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "success"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "file-document-box-outline",
+            "backgroundClass": "danger",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "flask",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "information-outline",
+            "backgroundClass": "info",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "layers-outline",
+            "backgroundClass": "dark",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "logout",
+            "backgroundClass": "light",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "menu",
+            "backgroundClass": "primary",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "smartlogic-logo",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "secondary"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "square-edit-outline",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "success"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "studio",
+            "backgroundClass": "danger",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          },
+          {
+            "isModal": false,
+            "title": "ok",
+            "iconComponent": "widgets",
+            "backgroundClass": "warning",
+            "url": "url1",
+            "tileType": 0,
+            "tooltipText": "toolTip"
+          }
+        ]
+      }
+    ]
+  }
+]
